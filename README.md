@@ -1,2 +1,3 @@
 # hello-world
-This is my second ( :-) ) repository!
+
+Now, I will create a more detailled Readme.md file. So be prepared...
